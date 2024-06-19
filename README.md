@@ -1,9 +1,9 @@
-Trần Quốc Duy
-HTML & CSS - Thiết kế website Cara
-Giới thiệu
-Trang web Cara chính là một website bán hàng với sản phẩm chủ yếu là thời trang.
-Trang web được xây dưng dựa trên 2 nền tảng: HTML và CSS.
-Dưới đây là những hình ảnh chi tiết về website:
+#### Trần Quốc Duy
+ ### HTML & CSS - Thiết kế website Cara
+ # Giới thiệu
+ - Trang web Cara chính là một website bán hàng với sản phẩm chủ yếu là thời trang.
+ - Trang web được xây dưng dựa trên 2 nền tảng: HTML và CSS.
+# Dưới đây là những hình ảnh chi tiết về website:
 ![image](https://github.com/tqduy02/cara/assets/98021569/e2fcd4af-cd04-462f-9a28-47086d24eb00)
 ![image](https://github.com/tqduy02/cara/assets/98021569/5cf9a9b1-2b8a-4d80-a5ab-30b9a5118cb6)
 ![image](https://github.com/tqduy02/cara/assets/98021569/3441e4f3-510d-4113-9c83-24765b2a4715)
